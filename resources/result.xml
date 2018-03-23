@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<group>
+
+    <student lastname="Ivanov">
+        <subject title="course" mark="5"/>
+        <subject title="networks" mark="4"/>
+        <subject title="philosophy" mark="2"/>
+        <subject title="parallel" mark="5"/>
+        <average>2</average>
+    </student>
+
+    <student lastname="Noname">
+        <subject title="course" mark="3"/>
+        <subject title="networks" mark="3"/>
+        <subject title="philosophy" mark="4"/>
+        <subject title="parallel" mark="5"/>
+        <average>3</average>
+    </student>
+
+</group>
